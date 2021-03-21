@@ -1,0 +1,12 @@
+tasks/OpenUp.java
+ tasks.OpenUp
+tasks/Cmprar.java
+ tasks.Cmprar
+userInterface/MainPage.java
+ userInterface.MainPage
+userInterface/ProductPage.java
+ userInterface.ProductPage
+tasks/PaginaPrincipal.java
+ tasks.PaginaPrincipal
+tasks/Seleccionar.java
+ tasks.Seleccionar
